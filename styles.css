@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	grid
+	justify-content:space-between;
+	height:100vh;
+	width:100vw;
+	flex-wrap:wrap;
+}
+.item{
+	flex-wrap:wrap;
+	background-color:green;
+	display:flex;
+	height:100px;
+	width:100px;
+	justify-content:space-between;
+	font-size:40px;
+	
+	
+}

@@ -1,9 +1,7 @@
 
 /* Your CSS Code here. */
 .holder{
-	display:flex;
-	grid
-	
+	display-row:flex;	
 	height:100vh;
 	width:100vw;
 	flex-wrap:wrap;
